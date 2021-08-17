@@ -40,13 +40,13 @@ font-size:25px;
   grid-template-columns: auto auto auto auto auto auto auto auto  auto auto;
 		
 	}
-	.gaju{
+	.gau{
 		background:#D7DBDD ;
 		border-radius:10%; 
 		margin-left: 70px;
 		padding: 20px 0px
 	}
-	.gaju1{
+	.gau1{
 		background:#D7DBDD ;
 		border-radius:10%; 
 		margin-left: 100px;
@@ -97,7 +97,7 @@ font-size:25px;
 <center>
 <div class="grid-container" >
 	
-	<div class="gaju">
+	<div class="gau">
  <header style="color: black" ><b>Our Vision</b></header>
 
 <img src="pict/vision.png">
@@ -105,7 +105,7 @@ font-size:25px;
 	
 	</div>
 	
-	<div class="gaju1">
+	<div class="gau1">
 		<header style="color: black"><b>Our Commintment</b></header>
 		<img src="pict/commitment.png">
     <p style="color: black">Service and support is at the heart of what we do.<br> As a true subscription based solutions vendor, we know the <br>importance of keeping our customers happy.
