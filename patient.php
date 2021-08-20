@@ -34,7 +34,7 @@ include('dashboard/db_connect.php');
 
  
   <a href="hospitaldash.php" class="w3-bar-item w3-button">home</a>
-  <a href="#" class="w3-bar-item w3-button">Doctors</a>
+  <a href="doctor.php" class="w3-bar-item w3-button">Doctors</a>
   <a href="messages.php" class="w3-bar-item w3-button">Messages</a>
   <a href="appointments.php" class="w3-bar-item w3-button">Appointments</a>
   <a href="#" class="w3-bar-item w3-button">Department</a>
@@ -47,7 +47,7 @@ include('dashboard/db_connect.php');
 </div>
 <div style="margin-left:20%">
 <div class="w3-container w3-teal">
-  <h1>Hospital Management System</h1>
+  <h1>Patient Users</h1>
   </div>
 </div>
 </div>
